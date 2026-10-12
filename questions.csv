@@ -1,0 +1,3 @@
+question,expected_keyword
+What is the difference between INNER JOIN and LEFT JOIN?,left
+What does a primary key do?,unique
